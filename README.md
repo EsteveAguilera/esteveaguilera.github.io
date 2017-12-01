@@ -1,5 +1,5 @@
 ## Hi, my name is Esteve and I do stuff!
-<img src="images/me.png" width="100px" height="100px" hspace="20"/>
+<img src="images/me.png" width="200px" height="200px"/>
 
 I am co-founder & CBO :bowtie: at [Fewlaps](http://fewlaps.com), where I have a lot of fun doing cool things with [@rocboronat](https://github.com/rocboronat) :grin:
 
