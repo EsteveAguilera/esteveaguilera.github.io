@@ -5,10 +5,11 @@ I am co-founder & CBO <img src="images/emojis/bowtie.png" width="20px" height="2
 
 You can find me on:
 
-- <img src="images/emojis/computer.png" width="20px" height="20px"/> Github: [EsteveAguilera](http://github.com/EsteveAguilera)
-- <img src="images/emojis/innocent.png" width="20px" height="20px"/> Twitter: [@esteveaguilera](https://twitter.com/esteveaguilera)
-- <img src="images/emojis/necktie.png" width="20px" height="20px"/> LinkedIn: [Esteve Aguilera](https://www.linkedin.com/in/esteveaguilera/)
-- <img src="images/emojis/running.png" width="20px" height="20px"/> [Strava](https://www.strava.com/athletes/5770095)
+- <img src="images/emojis/computer.png" width="20px" height="20px"/> Github at [@EsteveAguilera](http://github.com/EsteveAguilera)
+- <img src="images/emojis/innocent.png" width="20px" height="20px"/> Twitter at [@EsteveAguilera](https://twitter.com/esteveaguilera)
+- <img src="images/emojis/camera.png" width="20px" height="20px"/> Instagram as [@esteve_a](https://www.instagram.com/esteve_a)
+- <img src="images/emojis/necktie.png" width="20px" height="20px"/> LinkedIn as [Esteve Aguilera](https://www.linkedin.com/in/esteveaguilera/)
+- <img src="images/emojis/running.png" width="20px" height="20px"/> Strava as [Esteve Aguilera](https://www.strava.com/athletes/5770095)
 
 I ~~barely~~ sometimes write on:
 
