@@ -10,7 +10,7 @@ You can find me on:
 - <img src="images/emojis/camera.png" width="20px" height="20px"/> Instagram as [@esteve_a](https://www.instagram.com/esteve_a)
 - <img src="images/emojis/necktie.png" width="20px" height="20px"/> LinkedIn as [Esteve Aguilera](https://www.linkedin.com/in/esteveaguilera/)
 - <img src="images/emojis/running.png" width="20px" height="20px"/> Strava as [Esteve Aguilera](https://www.strava.com/athletes/5770095)
-- PSN PS4 as [Esteve_A](https://psnprofiles.com/Esteve_A)
+- <img src="images/emojis/video-game.png" width="20px" height="20px"/> PSN PS4 as [Esteve_A](https://psnprofiles.com/Esteve_A)
 
 I ~~barely~~ sometimes write on:
 
