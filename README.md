@@ -18,6 +18,6 @@ I ~~barely~~ sometimes write on:
 - The Fewlaps blog [fewlaps.com/blog](http://fewlaps.com/blog/)
 
 ------
-This *web* has been created using [github pages](https://pages.github.com/) and [markdown](https://guides.github.com/features/mastering-markdown/)
+This *web* has been created using [github pages](https://pages.github.com/) and [markdown](https://guides.github.com/features/mastering-markdown/), you can see the repo [here](https://github.com/EsteveAguilera/esteveaguilera.github.io)
 
 It may seem that I am a lazy person, but I prefer to say that I am practical! Oh, and it works! <img src="images/emojis/grin.png" width="20px" height="20px"/>
