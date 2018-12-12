@@ -9,7 +9,7 @@ Stuff I do:
 - Share things <img src="images/emojis/innocent.png" width="20px" height="20px"/> on **Twitter** at [@EsteveAguilera](https://twitter.com/esteveaguilera)
 - Play that I am a photographer <img src="images/emojis/camera.png" width="20px" height="20px"/> on **Instagram** as [@esteve_a](https://www.instagram.com/esteve_a)
 - Be on **LinkedIn** <img src="images/emojis/necktie.png" width="20px" height="20px"/> as [Esteve Aguilera](https://www.linkedin.com/in/esteveaguilera/)
-- Share my runs <img src="images/emojis/running.png" width="20px" height="20px"/> on **Strava** as [Esteve Aguilera](https://www.strava.com/athletes/5770095) and on **Movescount** as [Esteve_A](http://www.movescount.com/members/member1553044-Esteve_A)
+- Share my runs <img src="images/emojis/running.png" width="20px" height="20px"/> on **Strava** as [Esteve Aguilera](https://www.strava.com/athletes/5770095) and on **Garmin Connect** as [Esteve](https://connect.garmin.com/modern/profile/938cc2a4-aab8-4a74-95cf-aff963f209be)
 - Play <img src="images/emojis/video-game.png" width="20px" height="20px"/> shooters on **PSN PS4** as [Esteve_A](https://psnprofiles.com/Esteve_A) and **Steam** as [Esteve](http://steamcommunity.com/id/esteveaguilera) 
 
 I ~~barely~~ sometimes write on:
