@@ -11,7 +11,7 @@ Stuff I do:
 - Play that I am a photographer <img src="images/emojis/camera.png" width="20px" height="20px"/> on **Instagram** as [@esteve_a](https://www.instagram.com/esteve_a)
 - Be on **LinkedIn** <img src="images/emojis/necktie.png" width="20px" height="20px"/> as [Esteve Aguilera](https://www.linkedin.com/in/esteveaguilera/)
 - Read (and sometimes post) content on **Reddit** as [u/EsteveA](https://www.reddit.com/user/EsteveA/)
-------
+
 This *web* has been created using [github pages](https://pages.github.com/) and [markdown](https://guides.github.com/features/mastering-markdown/), you can see the repo [here!](https://github.com/EsteveAguilera/esteveaguilera.github.io)
 
 It may seem that I am a lazy person, but I prefer to say that I am practical! Oh, and it works! <img src="images/emojis/grin.png" width="20px" height="20px"/>
